@@ -1,0 +1,27 @@
+NAME: Cao Xu
+EMAIL: cxcharlie@gmail.com
+ID: 704551688
+
+INCLUDED FILES:
+
+lab3b.py: A python-based implementation of the project lab3b which analyzes
+a .csv file outputted by a program similar to that of lab 3A, then determines
+some inconsistencies and outputs them.
+
+Makefile: A standard Makefile containing a default option as well as dist and
+clean.
+
+README: This file describing included files and a few sources.
+
+RESEARCH:
+
+Discussion and the slides provided from discussion
+
+Information from Lab3A provided in spec concerning EXT2 (as well as that one page
+describing its data structures)
+
+A few google searches to refresh memory on certain python stuff (mostly used stackoverflow
+answers such as this one:
+
+https://stackoverflow.com/questions/5574702/how-to-print-to-stderr-in-python
+
